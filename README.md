@@ -1,7 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=Ninjagamedev&color=red)
 
 ```js
-export default {
+export default Hello {
+  name: 'Alexandre Pais',
+  age: '21',
   country: 'Portugal',
   technologies:{
     gameDev: ['Unity'],
