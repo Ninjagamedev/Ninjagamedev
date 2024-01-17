@@ -13,6 +13,7 @@ export default Hello {
   }
 }
 ```
+![d74b6737ae912d33bba82f3a4dcc4a30](https://github.com/Ninjagamedev/Ninjagamedev/assets/128500270/f2c994dc-a16b-498b-8742-6828f3561f6d)
 
 ### Stats
   [![](https://raw.githubusercontent.com/Ninjagamedev/Ninjagamedev/main/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
