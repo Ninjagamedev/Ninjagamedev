@@ -6,9 +6,9 @@ export default Hello {
   level: '21',
   country: 'Portugal',
   technologies:{
-    gameDev: ['Unity'],
-    frontEnd: ['HTML', 'CSS', 'Javascript'],
-    backEnd: ['C', 'C#', 'Java', 'PHP'],
+    gameDev: ['Unity', 'LÖVE'],
+    programmingLanguages: ['C', 'C#', 'Java', 'Python', 'Lua'],
+    webDev: ['HTML', 'CSS', 'Javascript', 'PHP'],
     database: ['mysql'],
   }
 }
@@ -24,5 +24,5 @@ export default Hello {
   
 ### Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,java,unity,html,css,bootstrap,mysql,git,linux,linkedin,discord,unity,vscode">
+  <img src="https://skillicons.dev/icons?i=c,java,unity,html,css,bootstrap,mysql,git,linux,linkedin,discord,unity,vscode,lua,python">
 </p>
